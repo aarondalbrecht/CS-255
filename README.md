@@ -1,1 +1,3 @@
 # CS-255
+The DriverPass project focused on designing a system for a client who wanted to help students prepare for their driving tests.  The client needed a system that would allow students to access online practice tests, schedule driving lessons, manage appointments, and track their progress.  The system also needed to support administrators and driving instructors by allowing them to manage student information, schedules, and training resources.  The goal was to create a system that met the needs of students while making the overall process more efficient for the organization.<\br><\br>
+One part of the project
